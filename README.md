@@ -1,4 +1,4 @@
-![image](https://github.com/wesam-c/sorting_algorithms/assets/58306978/276c13a8-2ab5-4fa4-9a19-89774d5c7bc7)
+![image](https://github.com/wesam-c/sorting_algorithms/assets/58306978/610ecf97-2630-4383-80f4-70b6af927022)
 
 # Sorting Algorithms
 
