@@ -4,11 +4,8 @@
 
 ## Alx Project on sorting algorithms and Big O Notation
 
-```
 ** Project Contributors: **
 
 [Abraham Paul](https://github.com/ZeusMadeIt)
 
 [Wesam Eldeb](https://github.com/wesam-c)
-
-```
