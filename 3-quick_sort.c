@@ -1,22 +1,6 @@
 #include "sort.h"
 
 /**
- * swap - swaps two int values
- * @a: address of 1st value
- * @b: address of 2nd value
- *
- * Return: void
-
-
-void swap(int *a, int *b)
-{
-	*a = *a + *b;
-	*b = *a - *b;
-	*a = *a - *b;
-}
-*/
-
-/**
  * lomuto_partition - Order a subset of an array of integers according to
  *                    the lomuto partition scheme (last element as pivot).
  * @array: The array of integers.
