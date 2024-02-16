@@ -17,7 +17,7 @@ void swap(int *array, size_t size, int *a, int *b)
 		*a = *a + *b;
 		*b = *a - *b;
 		*a = *a - *b;
-		print_array((const int*)array, size);
+		print_array((const int *)array, size);
 	}
 }
 
@@ -52,7 +52,7 @@ size_t lomuto_partition(int *array, size_t size, ssize_t low, ssize_t high)
  * Return: void
 */
 
-void quicksort(int *arrat, size_t size, ssize_t low, ssize_t high)
+void quicksort(int *array, size_t size, ssize_t low, ssize_t high)
 {
 	if (low < high)
 	{
